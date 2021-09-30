@@ -1,0 +1,11 @@
+console.time('Your code took')
+console.log("Hello Console");
+console.log(7*246)
+console.log(true)
+console.log([54,65,6,1])
+console.log({harry:'this',marks:34})
+console.table({harry:'this',marks:34})
+console.warn("Warning")
+console.timeEnd('Your code took')
+console.assert(566<189,'Age >189 is not possible')
+console.error('This is Error')
