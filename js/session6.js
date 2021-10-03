@@ -16,7 +16,7 @@ console.log(html);
 console.log(html[1])
 console.log(html.indexOf('<')); //will give first occurance
 console.log(html.lastIndexOf('<'))
-console.log(html.charAt(2))
+console.log(html.charAt())
 console.log(html.endsWith('str2')) //returns boolean value
 console.log(html.includes('adkjf')) //returns boolean
 console.log(html.substring(1,7))
