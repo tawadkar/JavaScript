@@ -25,7 +25,7 @@ str = Number(false); //Number
 str = Number([1,2,3,4,5,6,7]); //Number
 console.log(str,(typeof str));
 
-let number = parseFloat('34.0598');
+let number = parseInt('34.0598');
 console.log(number.toFixed(2),(typeof number)) //34.06 number
 
 //Type coercion
@@ -36,3 +36,5 @@ console.log(mystr + mynum);
 let mystr1 = String(429);
 let mynum1 =34;
 console.log(mystr1 + mynum1);
+
+
