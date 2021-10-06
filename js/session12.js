@@ -8,4 +8,5 @@ a=document.all
 
 // })
 a= document.links
+
 console.log(a)
